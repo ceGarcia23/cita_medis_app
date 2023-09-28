@@ -15,6 +15,7 @@ ul {
 
 li {
     float: left;
+    margin-right: 10px; /* Añade espacio entre los elementos li */
 }
 
 li a {
