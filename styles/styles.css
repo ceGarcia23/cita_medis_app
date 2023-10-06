@@ -1,37 +1,8 @@
-.header {
-    background-color: tomato;
-    color: white;
-    border: 2px solid black;
-    margin: 20px;
-    padding: 20px;
+/* Estilo para el fondo del carousel */
+.carousel-inner {
+    background-color: #f8f9fa; /* Cambia el color de fondo del carousel */
 }
-
-ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
+.carousel-item {
+    max-height: 500px ;
 }
-
-li {
-    float: left;
-    margin-right: 10px; /* Añade espacio entre los elementos li */
-}
-
-li a {
-    display: block;
-    color: black;
-    text-align: center;
-    padding: 16;
-    text-decoration: none;
-}
- li a:hover {
-    background-color: #ded959;
- }
-
- footer {
-    background-color: red;
- }
-
-
 
